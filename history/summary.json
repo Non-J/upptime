@@ -22,17 +22,19 @@
     "url": "$URL_HARU_QBT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "haru-qbt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 328,
-    "timeDay": 382,
-    "timeWeek": 328,
-    "timeMonth": 328,
-    "timeYear": 328,
-    "dailyMinutesDown": {}
+    "time": 307,
+    "timeDay": 273,
+    "timeWeek": 307,
+    "timeMonth": 307,
+    "timeYear": 307,
+    "dailyMinutesDown": {
+      "2025-06-09": 0
+    }
   }
 ]
