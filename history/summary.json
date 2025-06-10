@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 199,
-    "timeDay": 218,
-    "timeWeek": 199,
-    "timeMonth": 199,
-    "timeYear": 199,
+    "time": 202,
+    "timeDay": 224,
+    "timeWeek": 202,
+    "timeMonth": 202,
+    "timeYear": 202,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "haru-qbt",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 307,
-    "timeDay": 273,
-    "timeWeek": 307,
-    "timeMonth": 307,
-    "timeYear": 307,
+    "uptime": "95.68%",
+    "uptimeDay": "79.82%",
+    "uptimeWeek": "95.68%",
+    "uptimeMonth": "95.68%",
+    "uptimeYear": "95.68%",
+    "time": 311,
+    "timeDay": 250,
+    "timeWeek": 311,
+    "timeMonth": 311,
+    "timeYear": 311,
     "dailyMinutesDown": {
-      "2025-06-09": 0
+      "2025-06-10": 111,
+      "2025-06-09": 180
     }
   }
 ]
