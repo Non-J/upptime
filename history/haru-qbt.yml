@@ -1,7 +1,7 @@
 url: $URL_HARU_QBT
-status: up
-code: 200
-responseTime: 316
-lastUpdated: 2025-07-26T23:24:18.177Z
+status: down
+code: 502
+responseTime: 530
+lastUpdated: 2025-07-27T21:16:51.458Z
 startTime: 2025-06-05T09:37:29.951Z
 generator: Upptime <https://github.com/upptime/upptime>
