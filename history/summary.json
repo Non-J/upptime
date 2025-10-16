@@ -4,19 +4,19 @@
     "url": "https://jirawut.com",
     "icon": "https://icons.duckduckgo.com/ip3/jirawut.com.ico",
     "slug": "personal-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 213,
-    "timeDay": 257,
-    "timeWeek": 232,
-    "timeMonth": 214,
-    "timeYear": 213,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 214,
+    "timeDay": 293,
+    "timeWeek": 244,
+    "timeMonth": 218,
+    "timeYear": 214,
     "dailyMinutesDown": {
-      "2025-10-16": 0
+      "2025-10-16": 19
     }
   },
   {
